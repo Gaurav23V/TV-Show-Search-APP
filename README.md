@@ -1,7 +1,7 @@
 TV Show Search Webpage
 
 <div align="center">
-  <img src="WebDev\API\TVShowSearchApp\Screenshot 2023-08-14 084555.png" alt="Project Image">
+  <img src="Screenshot 2023-08-14 084555.png" alt="Project Image">
 </div>
 
 Welcome to the TV Show Search Webpage repository! This is a simple and user-friendly web application that allows you to search for your favorite TV shows and instantly retrieve images associated with the show titles. Built using HTML, CSS, JavaScript, and the Axios framework, this interactive webpage provides a seamless way to explore and visualize various TV shows.
