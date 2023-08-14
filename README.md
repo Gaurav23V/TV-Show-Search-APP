@@ -21,6 +21,6 @@ This repository contains the source code for the TV Show Search Webpage, making 
 
 Feel free to clone, fork, and contribute to this repository to improve its features or adapt it for your specific use case. We hope you enjoy using the TV Show Search Webpage as much as we enjoyed creating it!
 
-Explore the live demo [here](#insert-link-to-live-demo).
+Explore the live demo <a href = "https://gaurav23v.github.io/TV-Show-Search-APP/"> here </a>.
 
 Author: [Your Name]
