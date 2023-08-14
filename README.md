@@ -23,4 +23,4 @@ Feel free to clone, fork, and contribute to this repository to improve its featu
 
 Explore the live demo <a href = "https://gaurav23v.github.io/TV-Show-Search-APP/"> here </a>.
 
-Author: [Your Name]
+By - Gaurav23V
